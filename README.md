@@ -13,7 +13,7 @@ National Research Council (CNR)
 Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA)
 via Amendola 122 D/O, 70126, Bari, Italy
 
-Laura Romeo - laura.romeo@stiima.cnr.it
-Roberto Marani - roberto.marani@stiima.cnr.it
-Tiziana D'Orazio - tiziana.dorazio@stiima.cnr.it
-Grazia Cicirelli - grazia.cicirelli@stiima.cnr.it
+- Laura Romeo - laura.romeo@stiima.cnr.it
+- Roberto Marani - roberto.marani@stiima.cnr.it
+- Tiziana D'Orazio - tiziana.dorazio@stiima.cnr.it
+- Grazia Cicirelli - grazia.cicirelli@stiima.cnr.it
