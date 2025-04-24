@@ -17,3 +17,18 @@ via Amendola 122 D/O, 70126, Bari, Italy
 - Roberto Marani - roberto.marani@stiima.cnr.it
 - Tiziana D'Orazio - tiziana.dorazio@stiima.cnr.it
 - Grazia Cicirelli - grazia.cicirelli@stiima.cnr.it
+
+## Cite:
+
+If you want to use this repository, please cite the paper where the SPPB dataset is presented:
+
+```
+@inproceedings{Romeo2020,
+  title={Image-based mobility assessment in elderly people from low-cost systems of cameras: A skeletal dataset for experimental evaluations},
+  author={Romeo, Laura and Marani, Roberto and Petitti, Antonio and Milella, Annalisa and D’Orazio, Tiziana and Cicirelli, Grazia},
+  booktitle={Ad-Hoc, Mobile, and Wireless Networks: 19th International Conference on Ad-Hoc Networks and Wireless, ADHOC-NOW 2020, Bari, Italy, October 19--21, 2020, Proceedings 19},
+  pages={125--130},
+  year={2020},
+  organization={Springer}
+}
+```
